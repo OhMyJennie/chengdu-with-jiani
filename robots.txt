@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ohmyjennie.github.io/chengdu-with-jiani/sitemap.xml
